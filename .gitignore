@@ -1,0 +1,26 @@
+# data and large outputs (not redistributed)
+data/*
+!data/README.md
+cric_prep/
+cg2_out/
+runs/
+*.npy
+*.npz
+*.pt
+*.pth
+*.ckpt
+*.zip
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

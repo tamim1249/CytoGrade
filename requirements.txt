@@ -1,0 +1,11 @@
+# Tested on Kaggle (Python 3.10/3.11, CUDA, NVIDIA T4). Core dependencies:
+torch>=2.1
+timm>=0.9.12
+transformers>=4.38      # Phikon (owkin/phikon) feature extractor, training only
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+Pillow
+tqdm

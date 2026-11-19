@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code or the CRIC split, please cite it as below."
+title: "CytoGrade: leakage-free, calibrated ordinal grading of Pap smear cells with conformal referral"
+type: software
+authors:
+  - family-names: "Mahmud"
+    given-names: "Tamim"
+  # add co-authors here
+license: MIT
+repository-code: "https://github.com/<your-username>/CytoGrade"
+keywords:
+  - cervical cytology
+  - Pap smear
+  - ordinal classification
+  - domain shift
+  - calibration
+  - conformal prediction
+  - data leakage
